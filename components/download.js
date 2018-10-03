@@ -52,7 +52,7 @@ const AuthorLine = styled.p`
   }
 `;
 
-const version = "1.0.0";
+const version = "1.0.1";
 const downloadURL = `https://github.com/ZeroX-DG/NewWall/releases/download/v${version}`;
 const links = {
   window: `${downloadURL}/NewWall.Setup.${version}.exe`,
